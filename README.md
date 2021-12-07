@@ -9,7 +9,8 @@ kuroehanako/kuroehanako is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  - I make Korean translation for some GNOME extensions.
-
+ - Underconstruction Projects
+   - Astica-icons (New Icon Pack)
  - Cancelled Projects
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
