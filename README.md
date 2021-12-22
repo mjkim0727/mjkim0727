@@ -9,8 +9,13 @@ kuroehanako/kuroehanako is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  - I make Korean translation for some GNOME extensions.
+ - Released Icons
+   - Breeze-extended
+   - Astica-icons (Mac-like Icon Pack)
  - Underconstruction Projects
-   - Astica-icons (New Icon Pack)
+   - Cobalt-icons (Windows 11 Style Icon Pack)
+   - Vector-icons (Pixel Style Icon Pack)
+   - Molybe-icons (Chrome OS Style Icon Pack, A Varient of Vector-icons.)
  - Cancelled Projects
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
