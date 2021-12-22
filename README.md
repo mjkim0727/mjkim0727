@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
  - Released Icons
    - Breeze-extended
    - Astica-icons (Mac-like Icon Pack)
+   - OneUI-icons (Samsung One UI Style Icon Pack)
  - Underconstruction Projects
    - Cobalt-icons (Windows 11 Style Icon Pack)
    - Vector-icons (Pixel Style Icon Pack)
