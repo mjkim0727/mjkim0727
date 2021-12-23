@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
    - OneUI-icons (Samsung One UI Style Icon Pack)
  - Underconstruction Projects
    - Cobalt-icons (Windows 11 Style Icon Pack)
-   - Vector-icons (Pixel Style Icon Pack)
-   - Molybe-icons (Chrome OS Style Icon Pack, A Varient of Vector-icons.)
+   - Vector-icons (Pixel and Chrome OS Style Icon Pack)
  - Cancelled Projects
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
+   - Molybe-icons (Chrome OS Style Icon Pack, Conflicted with Vector-Icons)
