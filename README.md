@@ -12,11 +12,14 @@ You can click the Preview link to take a look at your changes.
  - Released Icons
    - Breeze-extended
    - Astica-icons (Mac-like Icon Pack)
+   - Vector-icons (Pixel and Chrome OS Style Icon Pack)
    - OneUI-icons (Samsung One UI Style Icon Pack)
  - TBA Projects
    - Vector-icons (Pixel and Chrome OS Style Icon Pack)
  - Underconstruction Projects
    - Cobalt-icons (Windows 11 Style Icon Pack)
+ - Ended Projects
+   - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
  - Cancelled Projects
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
