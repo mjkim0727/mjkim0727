@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
  - Underconstruction Projects
    - Cobalt-icons (Windows 11 Style Icon Pack)
    - OneUI4-icons (Samsung One UI Style Icon Pack)
+   - Planet-icons (Samsung Experience Style Icon Pack)
+   - OneUI-GTK (Samsung One UI Colored themes based on Orchis)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
  - Cancelled Projects
