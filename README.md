@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
    - OneUI-GTK (Samsung One UI Colored themes based on Orchis)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
+   - Infinity Star/Dream (Samsung Experience Style Icon Pack, Reboot Project)
  - Cancelled Projects
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
