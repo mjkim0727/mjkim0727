@@ -9,14 +9,15 @@ kuroehanako/kuroehanako is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  - I make Korean translation for some GNOME extensions.
- - Released Icons
+ - Released Projects
    - Breeze-extended
+   - Oxygen for GTK (KDE Sounds for GNOME/Xfce/MATE, Also GTK Integration on KDE Plasma) 
    - Astica-icons (Mac-like Icon Pack)
-   - Vector-icons (Pixel and Chrome OS Style Icon Pack)
- - Underconstruction Projects
    - Cobalt-icons (Windows 11 Style Icon Pack)
    - OneUI4-icons (Samsung One UI Style Icon Pack)
    - Planet-icons (Samsung Experience Style Icon Pack)
+   - Vector-icons (Pixel and Chrome OS Style Icon Pack)
+ - Underconstruction Projects
    - OneUI-GTK (Samsung One UI Colored themes based on Orchis)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
