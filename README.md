@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
    - Planet-icons (Samsung Experience Style Icon Pack)
    - Vector-icons (Pixel and Chrome OS Style Icon Pack)
    - Naru-icons (Yaru with Squircle Design)
- - Underconstruction Projects
    - Taru-icons (Naru's assets with Traditional Design)
+ - Underconstruction Projects
+   - YaruKde22 (Yaru 22.04 theme for KDE)
    - OneUI-GTK (Samsung One UI Colored themes based on Orchis)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
