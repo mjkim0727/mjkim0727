@@ -16,12 +16,13 @@ You can click the Preview link to take a look at your changes.
    - Cobalt-icons (Windows 11 Style Icon Pack)
    - OneUI4-icons (Samsung One UI Style Icon Pack)
    - Planet-icons (Samsung Experience Style Icon Pack)
+   - Pop-Extended (Third-Party Icons convert to Pop OS Style)
    - Vector-icons (Pixel and Chrome OS Style Icon Pack)
    - Naru-icons (Yaru with Squircle Design)
    - Taru-icons (Naru's assets with Traditional Design)
- - Underconstruction Projects
    - YaruKde22 (Yaru 22.04 theme for KDE)
-   - OneUI-GTK (Samsung One UI Colored themes based on Orchis)
+ - Underconstruction Projects
+   - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
    - Infinity Star/Dream (Samsung Experience Style Icon Pack, Reboot Project)
