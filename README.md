@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
    - YaruKde22 (Yaru 22.04 theme for KDE)
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
+   - Malus-icons (macOS icons flat version)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
    - Infinity Star/Dream (Samsung Experience Style Icon Pack, Reboot Project)
