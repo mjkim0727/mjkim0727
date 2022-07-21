@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
    - Naru-icons (Yaru with Squircle Design)
    - Taru-icons (Naru's assets with Traditional Design)
    - YaruKde22 (Yaru 22.04 theme for KDE)
+   - malgun-tweaked (Malgun Gothic's tweaked version for Win10/Win11)
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
    - Malus-icons (macOS icons flat version)
