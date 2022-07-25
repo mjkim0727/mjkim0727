@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
    - Malus-icons (macOS icons flat version)
+   - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
    - Infinity Star/Dream (Samsung Experience Style Icon Pack, Reboot Project)
