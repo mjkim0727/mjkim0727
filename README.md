@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
    - malgun-tweaked (Malgun Gothic's tweaked version for Win10/Win11)
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
+   - Stylish-icon-theme (Modern Icon theme)
    - Malus-icons (macOS icons flat version)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
