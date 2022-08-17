@@ -8,7 +8,7 @@
 kuroehanako/kuroehanako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- - I make Korean translation for some GNOME extensions.
+ - I make Korean translation for some GNOME extensions. Also, I create linux icon themes.
  - Released Projects
    - Breeze-extended
    - Oxygen for GTK (KDE Sounds for GNOME/Xfce/MATE, Also GTK Integration on KDE Plasma) 
