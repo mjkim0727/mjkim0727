@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
    - Taru-icons (Naru's assets with Traditional Design)
    - YaruKde22 (Yaru 22.04 theme for KDE)
    - malgun-tweaked (Malgun Gothic's tweaked version for Win10/Win11)
+   - Stylish-icon-theme (Modern Pixel-Perfect Icon theme)
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
-   - Stylish-icon-theme (Modern Pixel-Perfect Icon theme)
    - Malus-icons (macOS icons flat version)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
