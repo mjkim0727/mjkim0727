@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
    - Stylish-icon-theme (Modern Pixel-Perfect Icon theme)
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
-   - Malus-icons (macOS icons flat version)
+   - RedmondX-icon-theme (Windows 10/11 Style icon theme)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
