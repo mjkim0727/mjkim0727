@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
    - RedmondX-icon-theme (Windows 10/11 Style icon theme)
+   - Eleven-icon-theme (Windows 10/11 Style icon theme)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
