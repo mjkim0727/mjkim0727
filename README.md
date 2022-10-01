@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- My Sub Account - https://github.com/sakurai-nozomi
+- My Sub Account - https://github.com/shijorei
 
 <!---
 kuroehanako/kuroehanako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
    - Oxygen for GTK (KDE Sounds for GNOME/Xfce/MATE, Also GTK Integration on KDE Plasma) 
    - Astica-icons (Mac-like Icon Pack)
    - Cobalt-icons (Windows 11 Style Icon Pack)
+   - Eleven-icon-theme (Windows 11 Style icon theme)
    - OneUI4-icons (Samsung One UI Style Icon Pack)
    - Planet-icons (Samsung Experience Style Icon Pack)
    - Pop-Extended (Third-Party Icons convert to Pop OS Style)
@@ -27,7 +28,6 @@ You can click the Preview link to take a look at your changes.
  - Underconstruction Projects
    - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
    - RedmondX-icon-theme (Windows 10/11 Style icon theme)
-   - Eleven-icon-theme (Windows 10/11 Style icon theme)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
