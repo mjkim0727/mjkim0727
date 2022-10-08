@@ -26,13 +26,14 @@ You can click the Preview link to take a look at your changes.
    - malgun-tweaked (Malgun Gothic's tweaked version for Win10/Win11)
    - Stylish-icon-theme (Modern Pixel-Perfect Icon theme)
  - Underconstruction Projects
-   - Quantum-icon-theme (Moka icon's Vectorize and Custom version)
+   - Diamond-icon-theme (One UI 5 Style icon theme)
    - RedmondX-icon-theme (Windows 10/11 Style icon theme)
    - minecleaner (Minecraft Reset Tool for Windows, Linux)
  - Ended Projects
    - OneUI-icons (Samsung One UI Style Icon Pack, Reboot Project)
    - Infinity Star/Dream (Samsung Experience Style Icon Pack, Reboot Project)
  - Cancelled Projects
+   - Quantum-icon-theme (Busy)
    - breeze-xfce (Intergrated to breeze-extended)
    - breeze-mate (Intergrated to breeze-extended)
    - Molybe-icons (Chrome OS Style Icon Pack, Conflicted with Vector-Icons)
